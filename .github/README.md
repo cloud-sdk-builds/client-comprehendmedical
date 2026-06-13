@@ -1,12 +1,12 @@
 # 🟡 Community Browser CDN Build – JavaScript SDK Client Package
 
 This repository provides a **community-maintained, browser-ready distribution** of the npm module
-[`@aws-sdk/client-comprehendmedical`](https://www.npmjs.com/package/@aws-sdk/client-comprehendmedical/v/3.1067.0).
+[`@aws-sdk/client-comprehendmedical`](https://www.npmjs.com/package/@aws-sdk/client-comprehendmedical/v/3.1068.0).
 
 Refer to the links below for detailed documentation:
 - All Services - [https://cloud-sdk-builds.github.io](https://cloud-sdk-builds.github.io/)
 - @aws-sdk/client-comprehendmedical - [https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical](https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical)
-- @aws-sdk/client-comprehendmedical v3.1067.0 - [https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical&version=3.1067.0](https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical&version=3.1067.0)
+- @aws-sdk/client-comprehendmedical v3.1068.0 - [https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical&version=3.1068.0](https://cloud-sdk-builds.github.io/?sdk=client-comprehendmedical&version=3.1068.0)
 
 Each package is **automatically built and published to a CDN**, allowing developers to use the SDK client **directly in browsers** with **zero bundling or build steps**.
 
@@ -33,13 +33,13 @@ You can use this package directly in the browser via **jsDelivr** using an **imp
 CDN URL
 
 ```text
-https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1067.0/index.min.mjs
+https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1068.0/index.min.mjs
 ```
 
 SRI SHA Hash
 
 ```text
-sha384-EyYEbzf4FKx81symI2VWxHAACMDbTA9IJxTxLmKPbyWNw96YhcIfq9sxaWP4lEtX
+sha384-/Jv0SXg5ZO5nOBceM77aYNLldupybL/6lcSDp2BbVMCdRAa5/ssoAF0h7jWMI5kD
 ```
 
 ### 📌 Latest Version
@@ -66,10 +66,10 @@ ImportMap
 <script type="importmap">
       {
         "imports": {
-            "@aws-sdk/client-comprehendmedical": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1067.0/index.min.mjs"
+            "@aws-sdk/client-comprehendmedical": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1068.0/index.min.mjs"
         },
           "integrity": {
-            "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1067.0/index.min.mjs": "sha384-EyYEbzf4FKx81symI2VWxHAACMDbTA9IJxTxLmKPbyWNw96YhcIfq9sxaWP4lEtX"
+            "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1068.0/index.min.mjs": "sha384-/Jv0SXg5ZO5nOBceM77aYNLldupybL/6lcSDp2BbVMCdRAa5/ssoAF0h7jWMI5kD"
         }
       }
 </script>
@@ -86,10 +86,10 @@ Full Importmap Example
             <script type="importmap">
                   {
                     "imports": {
-                        "@aws-sdk/client-comprehendmedical": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1067.0/index.min.mjs"
+                        "@aws-sdk/client-comprehendmedical": "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1068.0/index.min.mjs"
                     },
                       "integrity": {
-                        "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1067.0/index.min.mjs": "sha384-EyYEbzf4FKx81symI2VWxHAACMDbTA9IJxTxLmKPbyWNw96YhcIfq9sxaWP4lEtX"
+                        "https://cdn.jsdelivr.net/gh/cloud-sdk-builds/client-comprehendmedical@3.1068.0/index.min.mjs": "sha384-/Jv0SXg5ZO5nOBceM77aYNLldupybL/6lcSDp2BbVMCdRAa5/ssoAF0h7jWMI5kD"
                     }
                   }
             </script>
@@ -156,7 +156,7 @@ Replace
 
 When using CDN builds in production environments:
 
-* Always pin to a specific version (`@3.1067.0`)
+* Always pin to a specific version (`@3.1068.0`)
 * Avoid using `latest` in production to prevent unexpected breaking changes
 
 ---
@@ -176,7 +176,7 @@ https://github.com/cloud-sdk-builds/.github/issues
 This distribution follows the license terms included in the repository:
 
 ```
-https://github.com/cloud-sdk-builds/client-comprehendmedical/blob/refs/tags/3.1067.0/LICENSE
+https://github.com/cloud-sdk-builds/client-comprehendmedical/blob/refs/tags/3.1068.0/LICENSE
 ```
 
 ---
